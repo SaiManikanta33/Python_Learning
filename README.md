@@ -49,7 +49,8 @@ Python-Learning/
 
 | Day   | Date        | Topic         | Folder   | Status |
 | ----- | ----------- | ------------- | -------- | ------ |
-| Day 1 | 08 Jul 2026 | Python Basics | `Day01/` | ✅     |
+| Day 1 | 08 Jul 2026 | Python Basics | `Day1/` | ✅     |
+| Day 2 | 08 Jul 2026 | operators,strings,typecasting | `Day2/` | ✅     |
 
 
 ## 💻 Why This Repository?

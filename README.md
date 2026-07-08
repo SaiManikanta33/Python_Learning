@@ -45,11 +45,12 @@ Python-Learning/
 
 ## 🚀 Daily Progress
 
-| Day   | Topic                  | Status |
-| ----- | ---------------------- | ------ |
-| Day 1 | Python Basics          | ✅      |
-| Day 2 | Variables & Data Types | ⏳      |
-| Day 3 | Operators              | ⏳      |
+## 🚀 Daily Progress
+
+| Day   | Date        | Topic         | Folder   | Status |
+| ----- | ----------- | ------------- | -------- | ------ |
+| Day 1 | 08 Jul 2026 | Python Basics | `Day01/` | ✅     |
+
 
 ## 💻 Why This Repository?
 

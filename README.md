@@ -50,6 +50,7 @@ Python-Learning/
 | ----- | ----------- | ------------- | -------- | ------ |
 | Day 1 | 08 Jul 2026 | Python Basics | `Day1/` | ✅     |
 | Day 2 | 08 Jul 2026 | operators,strings,typecasting | `Day2/` | ✅     |
+| Day 3 | 09 Jul 2026 | Lists,Tuples,Dictionaries,Sets | `Day3/` | ✅     |
 
 
 ## 💻 Why This Repository?

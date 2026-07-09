@@ -43,7 +43,6 @@ Python-Learning/
 └── README.md
 ```
 
-## 🚀 Daily Progress
 
 ## 🚀 Daily Progress
 

@@ -52,6 +52,7 @@ Python-Learning/
 | Day 2 | 09 Jul 2026 | operators,strings,typecasting | `Day2/` | ✅     |
 | Day 3 | 10 Jul 2026 | Lists,Tuples,Dictionaries,Sets | `Day3/` | ✅     |
 | Day 4 | 11 Jul 2026 | Conditional and Loops | `Day4/` | ✅     |
+| Day 5 | 12 Jul 2026 | Functions | `Day5/` | ✅     |
 
 
 

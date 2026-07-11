@@ -49,8 +49,10 @@ Python-Learning/
 | Day   | Date        | Topic         | Folder   | Status |
 | ----- | ----------- | ------------- | -------- | ------ |
 | Day 1 | 08 Jul 2026 | Python Basics | `Day1/` | ✅     |
-| Day 2 | 08 Jul 2026 | operators,strings,typecasting | `Day2/` | ✅     |
-| Day 3 | 09 Jul 2026 | Lists,Tuples,Dictionaries,Sets | `Day3/` | ✅     |
+| Day 2 | 09 Jul 2026 | operators,strings,typecasting | `Day2/` | ✅     |
+| Day 3 | 10 Jul 2026 | Lists,Tuples,Dictionaries,Sets | `Day3/` | ✅     |
+| Day 4 | 11 Jul 2026 | Conditional and Loops | `Day4/` | ✅     |
+
 
 
 ## 💻 Why This Repository?

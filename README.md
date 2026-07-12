@@ -53,6 +53,8 @@ Python-Learning/
 | Day 3 | 10 Jul 2026 | Lists,Tuples,Dictionaries,Sets | `Day3/` | ✅     |
 | Day 4 | 11 Jul 2026 | Conditional and Loops | `Day4/` | ✅     |
 | Day 5 | 12 Jul 2026 | Functions | `Day5/` | ✅     |
+| Day 6 | 13 Jul 2026 | Modules and Packages | `Day6/` | ✅     |
+| Day 7 | 14 Jul 2026 | FileHandling and ExceptionHandling | `Day5/` | ✅     |
 
 
 

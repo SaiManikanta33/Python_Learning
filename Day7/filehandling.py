@@ -13,10 +13,9 @@
     x   ---->       create a new file
     rb  ---->       read binary files 
     wb  ---->       write binary file   """
-    
-"""    
+       
             #writing to a file
-file=open("notes.txt","w")
+file=open("notess.txt","w")
 file.write("Python is Awesome! \n")
 file.write("I am learning file handling.")
 file.close()
@@ -55,7 +54,6 @@ with open("notes.txt","w") as file:
     file.write("Hello, Python!")
     
     
-    """
             #Working with CSV Files
         #Python's built-in csv modules makes reading and writing CSV files easy
     #write to a CSV

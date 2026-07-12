@@ -13,7 +13,7 @@
     x   ---->       create a new file
     rb  ---->       read binary files 
     wb  ---->       write binary file   """
-       
+      
             #writing to a file
 file=open("notess.txt","w")
 file.write("Python is Awesome! \n")
@@ -71,3 +71,13 @@ with open("students.csv","r") as file:
     reader = csv.reader(file)
     for row in reader:
         print(row)
+        
+        
+            #Moving File one folder to another folder
+                 
+import shutil
+src = r"C:\Users\SAI MANIKANTA\Python_Learning\notess.txt"
+dest = r"C:\Users\SAI MANIKANTA\Python_Learning\Day7"
+shutil.move(src,dest)
+# example copy (uncomment to run)
+# shutil.copy(src, dest)

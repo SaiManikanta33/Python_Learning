@@ -55,7 +55,7 @@ Python-Learning/
 | Day 5 | 12 Jul 2026 | Functions | `Day5/` | ✅     |
 | Day 6 | 13 Jul 2026 | Modules and Packages | `Day6/` | ✅     |
 | Day 7 | 14 Jul 2026 | FileHandling and ExceptionHandling | `Day7/` | ✅     |
-
+| Day 8 | 15 Jul 2026 | Lambda(),map(),filter(),reduce() | `Day8/` | ✅     |
 
 
 ## 💻 Why This Repository?

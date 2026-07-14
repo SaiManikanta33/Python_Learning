@@ -1,0 +1,5 @@
+INFO User logged in
+ERROR Invalid Password
+INFO File Uploaded
+WARNING High CPU Usage
+ERROR Database Connection Failed

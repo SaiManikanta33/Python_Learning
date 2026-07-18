@@ -57,6 +57,7 @@ Python-Learning/
 | Day 7 | 14 Jul 2026 | FileHandling and ExceptionHandling | `Day7/` | ✅     |
 | Day 8 | 15 Jul 2026 | Lambda(),map(),filter(),reduce() | `Day8/` | ✅     |
 | Day 9 | 16 Jul 2026 | Generators,iterators | `Day9/` | ✅     |
+| Day 10 | 17 Jul 2026 | Oops Concepts Class , Object | `Day10/` | ✅     |
 
 
 ## 💻 Why This Repository?

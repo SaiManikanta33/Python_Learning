@@ -48,15 +48,15 @@ Python-Learning/
 
 | Day   | Date        | Topic         | Folder   | Status |
 | ----- | ----------- | ------------- | -------- | ------ |
-| Day 01 | 08 Jul 2026 | Python Basics | `Day1/` | ✅     |
-| Day 02 | 09 Jul 2026 | operators,strings,typecasting | `Day2/` | ✅     |
-| Day 03 | 10 Jul 2026 | Lists,Tuples,Dictionaries,Sets | `Day3/` | ✅     |
-| Day 04 | 11 Jul 2026 | Conditional and Loops | `Day4/` | ✅     |
-| Day 05 | 12 Jul 2026 | Functions | `Day5/` | ✅     |
-| Day 06 | 13 Jul 2026 | Modules and Packages | `Day6/` | ✅     |
-| Day 07 | 14 Jul 2026 | FileHandling and ExceptionHandling | `Day7/` | ✅     |
-| Day 08 | 15 Jul 2026 | Lambda(),map(),filter(),reduce() | `Day8/` | ✅     |
-| Day 09 | 16 Jul 2026 | Generators,iterators | `Day9/` | ✅     |
+| Day 01 | 08 Jul 2026 | Python Basics | `Day01/` | ✅     |
+| Day 02 | 09 Jul 2026 | operators,strings,typecasting | `Day02/` | ✅     |
+| Day 03 | 10 Jul 2026 | Lists,Tuples,Dictionaries,Sets | `Day03/` | ✅     |
+| Day 04 | 11 Jul 2026 | Conditional and Loops | `Day04/` | ✅     |
+| Day 05 | 12 Jul 2026 | Functions | `Day05/` | ✅     |
+| Day 06 | 13 Jul 2026 | Modules and Packages | `Day06/` | ✅     |
+| Day 07 | 14 Jul 2026 | FileHandling and ExceptionHandling | `Day07/` | ✅     |
+| Day 08 | 15 Jul 2026 | Lambda(),map(),filter(),reduce() | `Day08/` | ✅     |
+| Day 09 | 16 Jul 2026 | Generators,iterators | `Day09/` | ✅     |
 | Day 10 | 17 Jul 2026 | Oops Concepts Class , Object | `Day10/` | ✅     |
 
 

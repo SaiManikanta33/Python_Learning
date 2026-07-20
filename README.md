@@ -59,6 +59,7 @@ Python-Learning/
 | Day 09 | 16 Jul 2026 | Generators,iterators | `Day09/` | ✅     |
 | Day 10 | 17 Jul 2026 | Oops Concepts Class , Object | `Day10/` | ✅     |
 | Day 11 | 18 Jul 2026 | ClassMethod and Variable,InstanceMethod and Variable,Static| `Day11/` | ✅     |
+| Day 12 | 19 Jul 2026 | Inheritence,Methos overring | `Day12/` | ✅     |
 
 
 ## 💻 Why This Repository?

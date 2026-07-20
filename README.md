@@ -58,7 +58,7 @@ Python-Learning/
 | Day 08 | 15 Jul 2026 | Lambda(),map(),filter(),reduce() | `Day08/` | ✅     |
 | Day 09 | 16 Jul 2026 | Generators,iterators | `Day09/` | ✅     |
 | Day 10 | 17 Jul 2026 | Oops Concepts Class , Object | `Day10/` | ✅     |
-| Day 11 | 18 Jul 2026 | ClassMethod,ClassVariable,InstanceMEthod and Variable,Static Method | `Day11/` | ✅     |
+| Day 11 | 18 Jul 2026 | ClassMethod and Variable,InstanceMethod and Variable,Static Method | `Day11/` | ✅     |
 
 
 ## 💻 Why This Repository?

@@ -60,6 +60,7 @@ Python-Learning/
 | Day 10 | 17 Jul 2026 | Oops Concepts Class , Object | `Day10/` | ✅     |
 | Day 11 | 18 Jul 2026 | ClassMethod and Variable,InstanceMethod and Variable,Static| `Day11/` | ✅     |
 | Day 12 | 19 Jul 2026 | Inheritence,Methos overring | `Day12/` | ✅     |
+| Day 13 | 20 Jul 2026 | Encapsulation,polymorphism,Abstraction | `Day13/` | ✅     |
 
 
 ## 💻 Why This Repository?

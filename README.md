@@ -61,6 +61,7 @@ Python-Learning/
 | Day 11 | 18 Jul 2026 | ClassMethod and Variable,InstanceMethod and Variable,Static| `Day11/` | ✅     |
 | Day 12 | 19 Jul 2026 | Inheritence,Methos overring | `Day12/` | ✅     |
 | Day 13 | 20 Jul 2026 | Encapsulation,polymorphism,Abstraction | `Day13/` | ✅     |
+| Day 14 | 21 Jul 2026 | Magic Methods,Aggregation,Composition | `Day14/` | ✅     |
 
 
 ## 💻 Why This Repository?

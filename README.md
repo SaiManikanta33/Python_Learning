@@ -62,6 +62,7 @@ Python-Learning/
 | Day 12 | 19 Jul 2026 | Inheritence,Methos overring | `Day12/` | ✅     |
 | Day 13 | 20 Jul 2026 | Encapsulation,polymorphism,Abstraction | `Day13/` | ✅     |
 | Day 14 | 21 Jul 2026 | Magic Methods,Aggregation,Composition | `Day14/` | ✅     |
+| Day 15 | 22 Jul 2026 | A project on Student Management System | `Day15/` | ✅     |
 
 
 ## 💻 Why This Repository?

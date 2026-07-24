@@ -1,0 +1,12 @@
+Hello, Python
+Learning Python
+
+ContextManagers.py
+
+🔍 What Each Parameter Holds
+--   exc_type (Exception Type): The class type of the error that occurred
+         (e.g., ZeroDivisionError, ValueError, FileNotFoundError)
+--  .exc_val (Exception Value): The actual error message text explaining 
+        what went wrong (e.g., division by zero)
+--  .exc_tb (Exception Traceback): A special traceback object containing the exact line numbers 
+        and code execution history where the file crashed.

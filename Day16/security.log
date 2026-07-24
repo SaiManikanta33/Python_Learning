@@ -1,0 +1,5 @@
+[2026-07-24 19:37:59.844251] Failed login attemp by admin from 192.168.1.1:login() takes 1 positional argument but 2 were given
+[2026-07-24 19:42:38.580877] Failed login attemp by Sai from 192.168.1.1:login() takes 2 positional arguments but 4 were given
+[2026-07-24 19:43:03.270034] Failed login attemp by Sai from 192.168.1.1:Invalid Username
+[2026-07-24 19:43:22.542573] Failed login attemp by Sai from 192.168.1.1:'_io.TextIOWrapper' object has no attribute 'wirte'
+[2026-07-24 19:43:38.536219 Succesfully login attempt by Sai from 192.168.1.1]

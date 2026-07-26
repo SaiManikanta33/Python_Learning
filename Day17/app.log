@@ -1,0 +1,12 @@
+2026-07-26 10:35:45,680 - INFO - Programming started
+2026-07-26 10:35:45,680 - WARNING - Warning message
+2026-07-26 10:35:45,680 - ERROR - Error occured
+2026-07-26 10:39:23,490 - INFO - Programming started
+2026-07-26 10:39:23,490 - WARNING - Warning message
+2026-07-26 10:39:23,490 - ERROR - Error occured
+2026-07-26 10:39:23,490 - ERROR - Division by Zero
+Traceback (most recent call last):
+  File "c:\Users\SAI MANIKANTA\Python_Learning\Day17\pythonlogging.py", line 28, in <module>
+    result = 10/0
+             ~~^~
+ZeroDivisionError: division by zero

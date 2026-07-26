@@ -64,7 +64,7 @@ Python-Learning/
 | Day 14 | 21 Jul 2026 | Magic Methods,Aggregation,Composition | `Day14/` | ✅     |
 | Day 15 | 22 Jul 2026 | A project on Student Management System(OOPs) | `Day15/` | ✅     |
 | Day 16 | 23 Jul 2026 | Decorators,Wrapper function,ContextManager | `Day16/` | ✅     |
-| Day 16 | 23 Jul 2026 | PythonLogging,VirtualEnvironment,InstallingPacages | `Day17/` | ✅     |
+| Day 17 | 24 Jul 2026 | PythonLogging,VirtualEnvironment,InstallingPacages | `Day17/` | ✅     |
 
 
 ## 💻 Why This Repository?

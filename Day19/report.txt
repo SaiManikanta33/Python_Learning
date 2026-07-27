@@ -1,0 +1,15 @@
+Error: 
+ERROR Invalid Password
+ERROR Database Connection Failed
+Count of Errors:2
+
+Error percentage :33.33%Warnings:
+WARNING CPU Usage High
+WARNING Disk Almost Full
+Count of Warnings: 2
+
+Warnings:
+WARNING CPU Usage High
+WARNING Disk Almost Full
+Count of Warnings: 2
+

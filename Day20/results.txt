@@ -1,0 +1,3 @@
+Port: 86 is open
+
+Scan completed in 18.97 seconds

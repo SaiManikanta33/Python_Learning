@@ -66,6 +66,7 @@ Python-Learning/
 | Day 18 | 25 Jul 2026 | EnvironmentalVariables,CommandLineArguments | `Day18/` | ✅     |
 | Day 19 | 26 Jul 2026 | Regular Expresions,Ip,Email,validation | `Day19/` | ✅     |
 | Day 20 | 27 Jul 2026 | Networking TCP,Servers,Clients,Port Scanner | `Day20/` | ✅     |
+| Day 21 | 28 Jul 2026 | Threding and Multithreding | `Day21/` | ✅     |
 
 
 ## 💻 Why This Repository?

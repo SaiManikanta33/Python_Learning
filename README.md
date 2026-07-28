@@ -65,6 +65,7 @@ Python-Learning/
 | Day 17 | 24 Jul 2026 | PythonLogging,VirtualEnvironment,InstallingPacages | `Day17/` | ✅     |
 | Day 18 | 25 Jul 2026 | EnvironmentalVariables,CommandLineArguments | `Day18/` | ✅     |
 | Day 19 | 26 Jul 2026 | Regular Expresions,Ip,Email,validation | `Day19/` | ✅     |
+| Day 20 | 27 Jul 2026 | Networking TCP,Servers,Clients,Port Scanner | `Day20/` | ✅     |
 
 
 ## 💻 Why This Repository?

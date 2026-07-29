@@ -67,6 +67,7 @@ Python-Learning/
 | Day 19 | 26 Jul 2026 | Regular Expresions,Ip,Email,validation | `Day19/` | ✅     |
 | Day 20 | 27 Jul 2026 | Networking TCP,Servers,Clients,Port Scanner | `Day20/` | ✅     |
 | Day 21 | 28 Jul 2026 | Threding and Multithreding | `Day21/` | ✅     |
+| Day 22 | 29 Jul 2026 | API's GET,PUT,POST | `Day22/` | ✅     |
 
 
 ## 💻 Why This Repository?

@@ -69,6 +69,7 @@ Python-Learning/
 | Day 21 | 28 Jul 2026 | Threding and Multithreding | `Day21/` | ✅     |
 | Day 22 | 29 Jul 2026 | API's GET,PUT,POST | `Day22/` | ✅     |
 | Day 23 | 30 Jul 2026 | WebScraping,BeautifulSoup | `Day23/` | ✅     |
+| Day 24 | 31 Jul 2026 | CSV Files and Pandas | `Day24/` | ✅     |
 
 
 ## 💻 Why This Repository?

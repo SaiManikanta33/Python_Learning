@@ -71,6 +71,7 @@ Python-Learning/
 | Day 23 | 30 Jul 2026 | WebScraping,BeautifulSoup | `Day23/` | ✅     |
 | Day 24 | 31 Jul 2026 | CSV Files and Pandas | `Day24/` | ✅     |
 | Day 25 | 01 Aug 2026 | Sqlite3 And Examples | `Day25/` | ✅     |
+| Day 26 | 02 Aug 2026 | Python Logging | `Day26/` | ✅     |
 
 
 

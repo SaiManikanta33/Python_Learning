@@ -1,0 +1,21 @@
+INFO:root:Application Started
+INFO:root:User Logged in
+INFO:root:User logged out
+INFO:root:Application successfully started
+WARNING:root:Low power
+ERROR:root:Integration failed
+CRITICAL:root:Application crashed
+DEBUG:root:Debug message
+INFO:root:Application successfully started
+WARNING:root:Low power
+ERROR:root:Integration failed
+CRITICAL:root:Application crashed
+ERROR:root:Integration failed
+CRITICAL:root:Application crashed
+2026-08-01 18:24:24,922 | INFO | Application started
+2026-08-01 18:26:31,349 | ERROR | Unexcepted Error
+Traceback (most recent call last):
+  File "C:\Users\SAI MANIKANTA\AppData\Local\Temp\ipykernel_17232\1221318144.py", line 4, in <module>
+    number = 10/0
+             ~~^~
+ZeroDivisionError: division by zero

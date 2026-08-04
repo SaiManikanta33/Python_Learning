@@ -74,6 +74,7 @@ Python-Learning/
 | Day 26 | 02 Aug 2026 | Python Logging | `Day26/` | ✅     |
 | Day 27 | 03 Aug 2026 | VirtualEnvironment and SettingUp Project Structure | `Day27/` | ✅     |
 | Day 28 | 04 Aug 2026 | Decorators,*args,**kwargs | `Day28/` | ✅     |
+| Day 29 | 05 Aug 2026 | Generators,iter(),Memory Efficiency | `Day29/` | ✅     |
 
 
 

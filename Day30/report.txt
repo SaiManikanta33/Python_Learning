@@ -1,0 +1,10 @@
+
+File:file1.txt
+File Size:2 bytes 
+Count of words:1Count of lines:1
+File:file2.txt
+File Size:6 bytes 
+Count of words:1Count of lines:1
+File:file3.txt
+File Size:40 bytes 
+Count of words:5Count of lines:2

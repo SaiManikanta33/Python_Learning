@@ -76,6 +76,7 @@ Python-Learning/
 | Day 28 | 04 Aug 2026 | Decorators,*args,**kwargs | `Day28/` | ✅     |
 | Day 29 | 05 Aug 2026 | Generators,iter(),Memory Efficiency | `Day29/` | ✅     |
 | Day 30 | 06 Aug 2026 | MultiThreading | `Day30/` | ✅     |
+| Day 31 | 07 Aug 2026 | MultiProcessing | `Day31/` | ✅     |
 
 
 

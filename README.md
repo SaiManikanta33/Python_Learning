@@ -77,6 +77,8 @@ Python-Learning/
 | Day 29 | 05 Aug 2026 | Generators,iter(),Memory Efficiency | `Day29/` | ✅     |
 | Day 30 | 06 Aug 2026 | MultiThreading | `Day30/` | ✅     |
 | Day 31 | 07 Aug 2026 | MultiProcessing | `Day31/` | ✅     |
+| Day 32 | 08 Aug 2026 | Synchronous And Asynchrounous | `Day32/` | ✅     |
+
 
 
 

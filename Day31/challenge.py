@@ -66,3 +66,27 @@ if __name__ == "__main__":
     print("Sequential time:", round(sequential_time, 4), "seconds")
     print("Parallel time:", round(parallel_time, 4), "seconds")
     print("Results saved to file_hashes.csv")
+    
+    
+    
+    """
+    🛡️ Cybersecurity Practice
+Password Hash Generator (Educational)
+import hashlib
+
+passwords = [
+    "admin123",
+    "cyber123",
+    "password1"
+]
+
+for password in passwords:
+    print(
+        hashlib.sha256(
+            password.encode()
+        ).hexdigest()
+    )
+Challenge
+
+Use a process pool to hash a larger list of passwords in parallel and compare the runtime to a sequential version.
+"""

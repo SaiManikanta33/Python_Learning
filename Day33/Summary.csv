@@ -1,0 +1,4 @@
+Website,Status,Response Time (seconds)
+https://example.com,DOWN,11.249
+https://python.org,200,6.193
+https://github.com,200,1.335

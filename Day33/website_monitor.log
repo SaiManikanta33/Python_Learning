@@ -1,0 +1,4 @@
+2026-08-08 20:09:05,418 - ERROR - https://example.com -> DOWN | HTTPSConnectionPool(host='example.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='example.com', port=443): Failed to resolve 'example.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-08 20:09:34,052 - ERROR - https://example.com -> DOWN | HTTPSConnectionPool(host='example.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='example.com', port=443): Failed to resolve 'example.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-08 20:09:40,284 - INFO - https://python.org --> 200
+2026-08-08 20:09:41,620 - INFO - https://github.com --> 200

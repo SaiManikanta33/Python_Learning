@@ -79,6 +79,7 @@ Python-Learning/
 | Day 31 | 07 Aug 2026 | MultiProcessing | `Day31/` | ✅     |
 | Day 32 | 08 Aug 2026 | Synchronous And Asynchrounous | `Day32/` | ✅     |
 | Day 33 | 09 Aug 2026 | Working With API's , REST API's | `Day33/` | ✅     |
+| Day 34 | 10 Aug 2026 | Authenticated API's | `Day34/` | ✅     |
 
 
 

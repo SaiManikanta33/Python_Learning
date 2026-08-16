@@ -80,7 +80,9 @@ Python-Learning/
 | Day 32 | 08 Aug 2026 | Synchronous And Asynchrounous | `Day32/` | ✅     |
 | Day 33 | 09 Aug 2026 | Working With API's , REST API's | `Day33/` | ✅     |
 | Day 34 | 10 Aug 2026 | Authenticated API's | `Day34/` | ✅     |
-| Day 35 | 14 Aug 2026 | SoftWare Testing(Unittesting) | `Day34/` | ✅     |
+| Day 35 | 14 Aug 2026 | SoftWare Testing(Unittesting) | `Day35/` | ✅     |
+| Day 37 | 16 Aug 2026 | Regular Expressions | `Day37/` | ✅     |
+
 
 
 
